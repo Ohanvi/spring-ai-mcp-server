@@ -1,2 +1,4 @@
 *application.properties
 *application.yml
+.DS_Store
+.idea
